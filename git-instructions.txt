@@ -1,0 +1,11 @@
+1. Add all the files to this folder
+2. To add all the files to the repo, type these commands in order
+   1) git add .
+   2) git commit -m "some message"
+   3) git push
+
+Username: Shrunalp
+Password: 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
+
+^^^^ The password is the personal access token, not your github password
+
